@@ -1,16 +1,2 @@
-Shortcuts
- -Ctrl + D to select and edit same lines 
- -Ctrl + P to search
- -Shift+Ctrl+I to inspect
-At the root
- -npm i -g create-react-app
-At the folder
- -create-react-app <app_name>
- -cd <app_name>
- -npm start
-At the VS terminal
- -npm i bootstrap@4.1.1//4.1.1 is the version used in this project
-Add component folder
- -add .jsx file in the forder component in src
- -import it in index.js file and add the imported class in the render method
+
  
